@@ -1,0 +1,38 @@
+.story img{
+    width: 100%;
+}
+
+.small-story img{
+    width: 100%;
+}
+
+.tiny-story img{
+    width: 100%;
+}
+
+
+.debate-story img{
+    width: 100%;
+}
+
+.opinion-story img{
+    width: 100%;
+}
+
+.top-story img {
+    height: 250px;
+    width: 80%;
+  }
+
+  .featured-stories img{
+      height: 175px;
+      width: 80%;
+  }
+
+.tiny-story img{
+    height: 80%;
+    width:  80%;
+}
+
+
+
